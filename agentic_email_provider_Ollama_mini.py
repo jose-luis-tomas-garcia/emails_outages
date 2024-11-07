@@ -28,7 +28,7 @@ DirectoryRead_Tool = DirectoryReadTool()
 # Agent monitoring
 
 # import agentops
-# agentops.init('252b425d-efe8-4155-8c5c-1db6edad7e84')
+# agentops.init('')
 
 
 def analyze_email(email_content, analysis_instructions):
