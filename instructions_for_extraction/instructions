@@ -1,0 +1,14 @@
+Extract the key information fields from the email provided. 
+You need to extract the fields: 
+
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+
+The Circuit ID or IDs affected are short designators, and they usually include a number, along with other words like 'ETH', 'UIF, or similar.
+Information like city, location or street are not part of the Circuit IDs.

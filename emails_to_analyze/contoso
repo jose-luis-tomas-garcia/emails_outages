@@ -1,0 +1,44 @@
+From: contoso Change Management changemgmt@contoso.com>
+Sent: den 29 august 2022 19:15
+To: NCM my_emailM@my_company.com>; my_company NOC <noc@my_company.com>
+
+Subject: contoso Maintenance Window: NTA-12345 Scheduled EMERGENCY
+EMERGENCY
+Scheduled Maintenance Notification
+my_company U.S. INC.
+contoso Fiber Maintenance Notification: NTA-12345
+Status: Scheduled
+Description of Maintenance: contoso will be performing emergency network upgrades to ensure performance and stability.
+Outage Duration: Up to a 120-minute outage possible, but due to the nature of the work, it could extend into the maintenance window.
+City, State: fake_city, AL
+Scheduled Start - Scheduled End:
+Date/Time: 2022-09-03 05:00:00 - 2022-09-03 10:00:00 UTC
+Alternate Date/Time:
+2024-09-04 05:00:00 - 2024-09-04 10:00:00 UTC
+UTC-04:00 = Eastern Daylight Time
+UTC-05:00 = Eastern Standard Time
+UTC-05:00 = Central Daylight Time
+UTC-06:00 = Central Standard Time
+UTC-06:00 = Mountain Daylight Time
+UTC-07:00 = Mountain Standard Time
+UTC-07:00 = Pacific Daylight Time
+UTC-08:00 = Pacific Standard Time
+Circuits Affected:
+Circuit ID | A Location | Z Location
+/ETH/12345//UIF/ | 54321 Main Street, Detroit | 12345 High Street, Chicago
+
+Contoso Fiber Network Operations Center @ 123.456.7890 is available to provide status
+information or additional details, before, during or afer this maintenance activity should
+you have any questions.
+For any questions or concerns regarding this maintenance please contact contoso Fiber Change
+Management. Change Management is staffed Monday thru Friday 8am to 5pm CST/CDT and
+is unavailable to provide real time status updates during maintenance events afer 5 PM
+CDT/CST. If your service remains impacted upon the conclusion of the window provided,
+please contact the appropriate contoso NOC to report the trouble.
+Please respond with a Ticket or Change Control Number to chmgmt@contoso.com
+By responding to this notification in a timely manner, contoso can ajempt to resolve any
+potential conflicts that may arise.
+In the event that no response is received this maintenance activity will proceed as planned.
+If you wish to update your account contacts for maintenance notifica4ons, please
+contact changemgmt@contoso.com
+

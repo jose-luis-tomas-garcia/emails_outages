@@ -1,0 +1,8 @@
+Provider: contoso3
+Reference: PWIH12345
+Description: IBX Engineers along with Vendor will be replacing the BCM board assembly for RPP ZBDWEEK/B/C/D. There will be no impact to cooling or redundancy, no customer impact expected.
+Outage Duration: The maintenance window spans from 05-Nov-2024 to 08-Nov-2024.
+Locations Impacted: IBX: MI1
+Scheduled Start: Various local start times throughout the maintenance window, starting 05-Nov-2024 10:00 Local.
+Scheduled End: Various local end times throughout the maintenance window, ending 08-Nov-2024 23:59 Local.
+Circuit IDs Affected: Not specified in the email.

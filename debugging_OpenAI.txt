@@ -1,0 +1,36 @@
+2024-11-05 09:13:09: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+
+2024-11-05 09:15:03: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+

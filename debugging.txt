@@ -1,0 +1,166 @@
+2024-11-04 16:11:26: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+
+2024-11-04 16:17:44: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+
+2024-11-04 16:33:40: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+
+2024-11-04 16:36:51: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="completed", output="1. **contoso4_analysis.txt**:
+```
+Provider: contoso4
+Reference: CRQ1-1234567890
+Description: Emergency maintenance our carrier will conduct on their network that will affect your service to improve the network's stability and service quality.
+Outage Duration: 120 Minutes
+Locations Impacted: Not explicitly mentioned in the email, check the attached CSV file for details.
+Scheduled Start: 31/10/2024 05:00:00 (GMT)
+Scheduled End: 31/10/2024 07:00:00 (GMT)
+Circuit IDs Affected: Specific Circuit IDs are included in the attached CSV.
+```
+
+2. **contoso2_analysis.txt**:
+```
+Provider: Digital Realty
+Reference: CN12345
+Description: Annual - Pull the plug test PI.1.4
+Outage Duration: Not specified, but the planned work window is from 19/Nov/2024 17:00:00 CET to 19/Nov/2024 23:00:00 CET.
+Locations Impacted: AB-CDE2.L0.204
+Scheduled Start: 19/Nov/2024 17:00:00 CET
+Scheduled End: 19/Nov/2024 23:00:00 CET
+Circuit IDs Affected: Not specified in the email.
+```
+
+3. **contoso_analysis.txt**:
+```
+Provider: contoso
+Reference: NTA-12345
+Description: Emergency network upgrades to ensure performance and stability.
+Outage Duration: Up to 120 minutes, but could extend into the maintenance window.
+Locations Impacted: fake_city, AL
+Scheduled Start: 2022-09-03 05:00:00 UTC
+Scheduled End: 2022-09-03 10:00:00 UTC
+Circuit IDs Affected: /ETH/147999//UIF/.
+```
+
+4. **contoso3_analysis.txt**:
+```
+Provider: contoso3
+Reference: PWIH12345
+Description: IBX Engineers along with Vendor will be replacing the BCM board assembly for RPP ZBDWEEK/B/C/D. There will be no impact to cooling or redundancy, no customer impact expected.
+Outage Duration: The maintenance window spans from 05-Nov-2024 to 08-Nov-2024.
+Locations Impacted: IBX: MI1
+Scheduled Start: Various local start times throughout the maintenance window, starting 05-Nov-2024 10:00 Local.
+Scheduled End: Various local end times throughout the maintenance window, ending 08-Nov-2024 23:59 Local.
+Circuit IDs Affected: Not specified in the email.
+```
+
+5. **contoso5_analysis.txt**:
+```
+Provider: contoso5
+Reference: ABCDE12345
+Description: Splicing due to fault in the network.
+Outage Duration: Scheduled from 2024-Nov-20 23:00 UTC to 2024-Nov-21 05:00 UTC (interruption of 6 hours).
+Locations Impacted: city1, country1
+Scheduled Start: 2024-Nov-20 23:00 UTC
+Scheduled End: 2024-Nov-21 05:00 UTC
+Circuit IDs Affected: Not specifically mentioned, but multiple service IDs and impacts listed (all with 6 hours interruptions).
+```"
+
+2024-11-04 16:44:57: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+
+2024-11-04 16:46:07: task_name="None", task="
+Extract the key information fields from the emails provided. 
+The emails are in the folder emails_to_analyse, one email per file. 
+For each one, you need to extract the fields: 
+    - Name of the provider sending the notification 
+    - Provider's Maintenance Notification reference
+    - Description of the outage
+    - Outage duration
+    - Locations impacted
+    - Scheduled start
+    - Scheduled end
+    - Circuit IDs affected
+Note: The Circuit ID or IDs affected are short designators, and they usually come with a number, along with other words like 'ETH', 'UIF, or similar.
+Information like cirty, location or street are not part of the Circuit IDs.
+                 
+
+", agent="IT Change Management analyst", status="started"
+

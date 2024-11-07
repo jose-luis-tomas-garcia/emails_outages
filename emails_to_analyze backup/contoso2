@@ -1,0 +1,48 @@
+From: Digital Realty Support <support@service-now.contoso2.com> 
+Sent: den 1 november 2024 09:08
+To: noreply-notifications@contoso2.com
+Subject: PII12345 Digital Realty - AB-CDE1 - Impact - MEDIUM IMPACT works (Level 2) - Planned Maintenance - SCHEDULED
+ 
+	 
+
+
+Summary 
+Communication
+Case Number	CN12345
+Case Received on	01/Nov/2024 10:07:15 CET
+Category	Communication
+Sub category	Maintenance
+Case status	New
+
+Dear Valued Customer,
+Digital Realty will be performing works under CN12345 as per the details below:
+ 
+Site: AB-CDE1
+
+Notification: SCHEDULED
+
+Planned Work Window: 19/Nov/2024 17:00:00 CET - 19/Nov/2024 23:00:00 CET
+
+Description of Works: Annual - Pull the plug test PI.1.4
+
+Work Type: Planned Maintenance
+
+Risk Level: Critical
+
+Impact: MEDIUM IMPACT works (Level 2) 
+During Works: No impact expected however redundancy reduced
+Details: During the pull the plug test (simulated Mains failure) the IT Load will supplied by the UPS systems, until the generators have started up, synchronized, and taken over the supply to UPS systems and other Non critical LV panels. ( 15-30 seconds ) The site is designed to be supplied from Generators. Impact For customers with : Advanced power setup : The A feed (UPS supplied) will be available during the entire work. The B feed (UPS supplied) will be available during the entire work As pr design the Mechanical infrastructure will shut down with the grid and start up again on Generator supply. Chillers, CRACs ,Ventilation systems All minimum N+1 redundancy.
+
+Affected Location: AB-CDE2.L0.204 
+Change details can be viewed on the Digital Realty Portal
+Respectfully,
+Digital Realty Global Operations
+
+ 
+	Contact: ecc@contoso2.com
+
+
+
+	
+ 
+Ref:MSGabcdefg_123456789

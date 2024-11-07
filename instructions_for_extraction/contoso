@@ -28,7 +28,7 @@ UTC-07:00 = Pacific Daylight Time
 UTC-08:00 = Pacific Standard Time
 Circuits Affected:
 Circuit ID | A Location | Z Location
-dumb_cirtcuit_ID | 54321 Main Street, Detroit | 12345 High Street, Chicago
+example_cirtcuit_ID | 54321 Main Street, Detroit | 12345 High Street, Chicago
 
 Contoso Fiber Network Operations Center @ 123.456.7890 is available to provide status
 information or additional details, before, during or afer this maintenance activity should
@@ -45,3 +45,16 @@ In the event that no response is received this maintenance activity will proceed
 If you wish to update your account
 -------------
 
+
+Extracted fields example 'below, in between '-------------':
+
+-------------
+Provider Name: contoso
+Maintenance Notification Reference: NTA-12345
+Description of Outage: contoso will be performing emergency network upgrades to ensure performance and stability.
+Outage Duration: Up to a 120-minute outage possible, but due to the nature of the work, it could extend into the maintenance window.
+Locations Impacted: fake_city, AL
+Scheduled Start: 2022-09-03 05:00:00 UTC
+Scheduled End: 2022-09-03 10:00:00 UTC
+Circuits Affected: example_cirtcuit_ID
+-------------

@@ -1,0 +1,8 @@
+Provider: contoso5
+Reference: ABCDE12345
+Description: Splicing due to fault in the network.
+Outage Duration: Scheduled from 2024-Nov-20 23:00 UTC to 2024-Nov-21 05:00 UTC (interruption of 6 hours).
+Locations Impacted: city1, country1
+Scheduled Start: 2024-Nov-20 23:00 UTC
+Scheduled End: 2024-Nov-21 05:00 UTC
+Circuit IDs Affected: Not specifically mentioned, but multiple service IDs and impacts listed (all with 6 hours interruptions).

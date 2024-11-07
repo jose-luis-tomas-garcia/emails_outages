@@ -1,0 +1,8 @@
+Provider: Digital Realty
+Reference: CN12345
+Description: Annual - Pull the plug test PI.1.4
+Outage Duration: Not specified, but the planned work window is from 19/Nov/2024 17:00:00 CET to 19/Nov/2024 23:00:00 CET.
+Locations Impacted: AB-CDE2.L0.204
+Scheduled Start: 19/Nov/2024 17:00:00 CET
+Scheduled End: 19/Nov/2024 23:00:00 CET
+Circuit IDs Affected: Not specified in the email.

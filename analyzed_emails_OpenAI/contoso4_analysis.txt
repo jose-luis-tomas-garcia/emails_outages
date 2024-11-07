@@ -1,0 +1,8 @@
+Provider: contoso4
+Reference: CRQ1-1234567890
+Description: Emergency maintenance our carrier will conduct on their network that will affect your service to improve the network's stability and service quality.
+Outage Duration: 120 Minutes
+Locations Impacted: Not explicitly mentioned in the email, check the attached CSV file for details.
+Scheduled Start: 31/10/2024 05:00:00 (GMT)
+Scheduled End: 31/10/2024 07:00:00 (GMT)
+Circuit IDs Affected: Specific Circuit IDs are included in the attached CSV.

@@ -1,0 +1,8 @@
+Provider: contoso
+Reference: NTA-12345
+Description: Emergency network upgrades to ensure performance and stability.
+Outage Duration: Up to 120 minutes, but could extend into the maintenance window.
+Locations Impacted: fake_city, AL
+Scheduled Start: 2022-09-03 05:00:00 UTC
+Scheduled End: 2022-09-03 10:00:00 UTC
+Circuit IDs Affected: /ETH/147999//UIF/.
