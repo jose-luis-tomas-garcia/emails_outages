@@ -11,7 +11,7 @@ from custom_tools_crewAI import file_writer
 
 # import agentops
 # os.environ["AGENTOPS_API_KEY"] = 
-# agentops.init('252b425d-efe8-4155-8c5c-1db6edad7e84')
+# agentops.init('')
 
 
 # Defining the LLM in Ollama

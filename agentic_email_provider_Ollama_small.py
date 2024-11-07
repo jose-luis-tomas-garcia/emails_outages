@@ -16,7 +16,7 @@ ollama_llm = LLM(
     api_key="NA"
 )
 # os.environ["AGENTOPS_API_KEY"] = 
-agentops.init('252b425d-efe8-4155-8c5c-1db6edad7e84')
+agentops.init('')
 
 # Defining instances of the tools
 

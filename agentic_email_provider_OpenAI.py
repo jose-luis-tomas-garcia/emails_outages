@@ -10,7 +10,7 @@ from custom_tools_crewAI import file_writer
 # Defining the LLM
 
 os.environ["OPENAI_MODEL_NAME"] = 'gpt-4o-mini'
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # Defining instances of the tools
 
